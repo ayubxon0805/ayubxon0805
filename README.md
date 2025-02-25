@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ayubxon0805
-- 👀 I’m interested in playting mobile games
-- 🌱 I’m currently learning english language to take IELTS certificate 7+
+- 👋 Hi, my full name is Ayubxon Ahmadjonov
+- 👀 I’m interested inmobile programming
+- 🌱 I’m currently learning dart and flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
